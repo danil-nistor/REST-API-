@@ -1,0 +1,25 @@
+{
+  "block": [
+    {
+      "id": 1,
+      "block_title": "Блок 1.Дисциплины (модули)",
+      "part_title": "Обязательная часть",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "block_title": "Блок 2.Практика",
+      "part_title": "Часть, формируемая участниками",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "block_title": "Блок 3.Практика",
+      "part_title": "Часть, формируемая участниками",
+      "created_at": null,
+      "updated_at": null
+    }
+]
+}
